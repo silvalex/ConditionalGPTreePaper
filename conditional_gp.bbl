@@ -105,6 +105,18 @@ A.~Wang, H.~Ma, and M.~Zhang, ``Genetic programming with greedy search for web
   Applications}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2013, pp.
   9--17.
 
+\bibitem{pop2011hybrid}
+C.~B. Pop, V.~Rozina~Chifu, I.~Salomie, R.~B. Baico, M.~Dinsoreanu, and
+  G.~Copil, ``A hybrid firefly-inspired approach for optimal semantic web
+  service composition,'' \emph{Scalable Computing: Practice and Experience},
+  vol.~12, no.~3, 2011.
+
+\bibitem{nguyen2005text}
+C.~D. Nguyen, T.~A. Dung, and T.~H. Cao, ``Text classification for
+  dag-structured categories,'' in \emph{Advances in Knowledge Discovery and
+  Data Mining}.\hskip 1em plus 0.5em minus 0.4em\relax Springer, 2005, pp.
+  290--300.
+
 \bibitem{clarke2014modelling}
 D.~Clarke, I.~Saleh, and M.~B. Blake, ``Modelling service workflow outcomes by
   assessing the underlying message flows,'' in \emph{WETICE Conference
@@ -118,10 +130,10 @@ A.~Bansal, M.~B. Blake, S.~Kona, S.~Bleul, T.~Weise, and M.~C. Jaeger,
   and E-Services, 2008 10th IEEE Conference on}.\hskip 1em plus 0.5em minus
   0.4em\relax IEEE, 2008, pp. 351--354.
 
-\bibitem{pop2011hybrid}
-C.~B. Pop, V.~Rozina~Chifu, I.~Salomie, R.~B. Baico, M.~Dinsoreanu, and
-  G.~Copil, ``A hybrid firefly-inspired approach for optimal semantic web
-  service composition,'' \emph{Scalable Computing: Practice and Experience},
-  vol.~12, no.~3, 2011.
+\bibitem{otero2012epochx}
+F.~Otero, T.~Castle, and C.~Johnson, ``Epochx: Genetic programming in java with
+  statistics and event monitoring,'' in \emph{Proceedings of the 14th annual
+  conference companion on Genetic and evolutionary computation}.\hskip 1em plus
+  0.5em minus 0.4em\relax ACM, 2012, pp. 93--100.
 
 \end{thebibliography}
